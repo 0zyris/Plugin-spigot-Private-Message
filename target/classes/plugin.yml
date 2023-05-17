@@ -1,0 +1,7 @@
+name: PluginPrivateMessage
+version: '1.0-SNAPSHOT'
+main: fr.ozyris.main.Main
+api-version: 1.18
+commands:
+  mp:
+    description: mp un joueur avec couleur
